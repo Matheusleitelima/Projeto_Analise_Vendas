@@ -8,7 +8,7 @@ Dashboard interativo desenvolvido no Power BI como parte do desafio prático de 
 * **Itens Vendidos:** 64,842 mil
 * **Total de Pedidos:** 30 mil
 * **Ticket Médio:** R$ 988,65
-* **Segmentações Disponíveis:** Canal de venda (App, Loja Física, Site) e Ano (2023, 2024, 2025)[cite: 2]
+* **Segmentações Disponíveis:** Canal de venda (App, Loja Física, Site) e Ano (2023, 2024, 2025)
 
 ## Análises e Principais Insights
 * **Evolução de Faturamento (2023 vs. 2025):** Em 2025, o faturamento atingiu **R$ 11,01 Mi**, registrando um crescimento de **R$ 2,34 Mi** (aproximadamente 27%) em comparação aos **R$ 8,67 Mi** obtidos em 2023.
