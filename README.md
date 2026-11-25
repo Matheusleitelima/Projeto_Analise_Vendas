@@ -12,9 +12,9 @@ Dashboard interativo desenvolvido no Power BI como parte do desafio prático de 
 
 ## Análises e Principais Insights
 * **Evolução de Faturamento (2023 vs. 2025):** Em 2025, o faturamento atingiu **R$ 11,01 Mi**, registrando um crescimento de **R$ 2,34 Mi** (aproximadamente 27%) em comparação aos **R$ 8,67 Mi** obtidos em 2023.
-* **Desempenho por Categoria:** A categoria de **Informática** lidera a geração de receita com **R$ 10,4 Mi**, seguida por Celulares (R$ 6,8 Mi), Games (R$ 5,2 Mi), Eletrodomésticos (R$ 4,9 Mi) e Casa e Móveis (R$ 2,4 Mi)[cite: 2].
-* **Desempenho por Região:** A região **Sudeste** concentra a maior fatia do faturamento com **R$ 13,4 Mi**, à frente do Nordeste (R$ 7,1 Mi), Sul (R$ 4,4 Mi), Centro-Oeste (R$ 3,0 Mi) e Norte (R$ 1,9 Mi)[cite: 2].
-* **Sazonalidade:** A série histórica mensal evidencia picos recorrentes de vendas no mês de **dezembro** (alcançando R$ 1,41 Mi em dezembro de 2025), comportamento impulsionado pela demanda comercial de fim de ano e pelo período de férias[cite: 2].
+* **Desempenho por Categoria:** A categoria de **Informática** lidera a geração de receita com **R$ 10,4 Mi**, seguida por Celulares (R$ 6,8 Mi), Games (R$ 5,2 Mi), Eletrodomésticos (R$ 4,9 Mi) e Casa e Móveis (R$ 2,4 Mi).
+* **Desempenho por Região:** A região **Sudeste** concentra a maior fatia do faturamento com **R$ 13,4 Mi**, à frente do Nordeste (R$ 7,1 Mi), Sul (R$ 4,4 Mi), Centro-Oeste (R$ 3,0 Mi) e Norte (R$ 1,9 Mi).
+* **Sazonalidade:** A série histórica mensal evidencia picos recorrentes de vendas no mês de **dezembro** (alcançando R$ 1,41 Mi em dezembro de 2025), comportamento impulsionado pela demanda comercial de fim de ano e pelo período de férias.
 
 ## Ferramentas Utilizadas
 * **Power BI Desktop:** Modelagem de dados, cálculos de métricas e construção dos visuais.
